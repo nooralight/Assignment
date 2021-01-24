@@ -123,4 +123,5 @@ public class PrimitiveConversionsJUnitTest {
         assertEquals( 49, myNewChar); //the value of '1'
     }
     
+    
 }
